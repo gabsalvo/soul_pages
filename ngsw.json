@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1713043871218,
+  "index": "/soul_pages/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/soul_pages/chunk-7Z4VKNC3.js",
+        "/soul_pages/chunk-FU2WVD46.js",
+        "/soul_pages/favicon.ico",
+        "/soul_pages/index.html",
+        "/soul_pages/main-5PDBGJYD.js",
+        "/soul_pages/manifest.webmanifest",
+        "/soul_pages/polyfills-RT5I6R6G.js",
+        "/soul_pages/styles-NSTWRB73.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/soul_pages/assets/gifs/clouds.gif",
+        "/soul_pages/assets/gifs/loading.gif",
+        "/soul_pages/assets/gifs/soul.png",
+        "/soul_pages/assets/gifs/soul.webp",
+        "/soul_pages/assets/gifs/soul_animation.gif",
+        "/soul_pages/assets/icons/icon-128x128.png",
+        "/soul_pages/assets/icons/icon-144x144.png",
+        "/soul_pages/assets/icons/icon-152x152.png",
+        "/soul_pages/assets/icons/icon-192x192.png",
+        "/soul_pages/assets/icons/icon-384x384.png",
+        "/soul_pages/assets/icons/icon-512x512.png",
+        "/soul_pages/assets/icons/icon-72x72.png",
+        "/soul_pages/assets/icons/icon-96x96.png",
+        "/soul_pages/assets/sounds/piano/A4.mp3",
+        "/soul_pages/assets/sounds/piano/B4.mp3",
+        "/soul_pages/assets/sounds/piano/C4.mp3",
+        "/soul_pages/assets/sounds/piano/C5.mp3",
+        "/soul_pages/assets/sounds/piano/D4.mp3",
+        "/soul_pages/assets/sounds/piano/E4.mp3",
+        "/soul_pages/assets/sounds/piano/F4.mp3",
+        "/soul_pages/assets/sounds/piano/G4.mp3",
+        "/soul_pages/assets/sounds/spells/Fire.mp3"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/soul_pages/assets/gifs/clouds.gif": "359c5f7c4704aaea7d1ccb8fff8c8946d2c62356",
+    "/soul_pages/assets/gifs/loading.gif": "2e3f5e1b62914dfbb2af1c377dc7800e4c058038",
+    "/soul_pages/assets/gifs/soul.png": "6725f4743d3e50cb5ad1c2f2176953ca9350d900",
+    "/soul_pages/assets/gifs/soul.webp": "6725f4743d3e50cb5ad1c2f2176953ca9350d900",
+    "/soul_pages/assets/gifs/soul_animation.gif": "16b32cafcd424696eb0cb0393053ca2defed47e5",
+    "/soul_pages/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/soul_pages/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/soul_pages/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/soul_pages/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/soul_pages/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/soul_pages/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/soul_pages/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/soul_pages/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/soul_pages/assets/sounds/piano/A4.mp3": "944637a9f465bf5d5f7e90a80e38f3a1f23423da",
+    "/soul_pages/assets/sounds/piano/B4.mp3": "cfa9bcaa952e9cf28b9bfa0a2967bc03e968a823",
+    "/soul_pages/assets/sounds/piano/C4.mp3": "55696b615bc39aacb9cbd9003e039bc76f89c836",
+    "/soul_pages/assets/sounds/piano/C5.mp3": "d2ee1e178870711245a0e92c2153adaa6fbf4992",
+    "/soul_pages/assets/sounds/piano/D4.mp3": "5c01163537249d54c09914ed7168dc947c60a2da",
+    "/soul_pages/assets/sounds/piano/E4.mp3": "3038a40cc1b7e0001c51300af10d8ce421273607",
+    "/soul_pages/assets/sounds/piano/F4.mp3": "4a043d31cc8969b44ce89d65b2662c825011d783",
+    "/soul_pages/assets/sounds/piano/G4.mp3": "7950282b41d59417d974d516f6d2b398cab127fa",
+    "/soul_pages/assets/sounds/spells/Fire.mp3": "81f64702fe7a8a4f4c50203c4e41aaaed13f094b",
+    "/soul_pages/chunk-7Z4VKNC3.js": "426518b3c6ba6b2d4068ad44be9f290a8f1d5eb7",
+    "/soul_pages/chunk-FU2WVD46.js": "fe61e6701d1003551a44d144b381cb6a4f3efa6c",
+    "/soul_pages/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/soul_pages/index.html": "3879bcbdbb072c050a55269e48e4f7b4b91f8f56",
+    "/soul_pages/main-5PDBGJYD.js": "ae2fdcf19b75e1ea369af8bdca0e45f2124c821a",
+    "/soul_pages/manifest.webmanifest": "d78ef490419963bed3e33123cfd95e870220e943",
+    "/soul_pages/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
+    "/soul_pages/styles-NSTWRB73.css": "e9ec935fcd4fdfa2bc99c30a7a9549832a733cb8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
